@@ -19,4 +19,4 @@ https://pagreceit.netlify.app/
 
 ## Tela Inicial 
 #
-<img src="img/waffle_screenchot.jpeg">
+<img src=".github/waffle_screenchot.jpeg">
